@@ -22,7 +22,7 @@ This is a React application that allows users to manage and track tasks grouped 
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/jaumecv89/lodgify-challenge
    ```
 
 2. Install dependencies:
