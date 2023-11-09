@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+	:root {
+		padding: 0;
+		margin: 0;
+		box-sizing: border-box;
+		list-style-type: none;
+		background-color: theme("colors.light-gray");
+		font-family: "Inter", sans-serif;
+	}
+}
